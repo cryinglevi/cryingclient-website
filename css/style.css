@@ -33,6 +33,11 @@ img.logo {
 }
 /*Logo*/
 
+@font-face {
+   font-family: blanka;
+   src: url(Blanka-Regular.tff);
+}
+
 /*Navigation links*/
 nav ul {
   float: right;
