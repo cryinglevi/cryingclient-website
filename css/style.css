@@ -34,8 +34,8 @@ img.logo {
 /*Logo*/
 
 @font-face {
-   font-family: blanka;
-   src: url(Blanka-Regular.tff);
+   font-family: Blanka;
+   src: url(Blanka-Regular.otf);
 }
 
 /*Navigation links*/
@@ -99,6 +99,7 @@ main {
   color: #ffffff;
   text-shadow: 2px 2px #222222;
   transition: 0.3s;
+  font-family: Blanka;
 }
 .description {
   text-align: center;
