@@ -101,6 +101,7 @@ main {
   transition: 0.3s;
   font-family: Blanka;
   margin-bottom: -30px;
+  text-align: center;
 }
 .description {
   text-align: center;
